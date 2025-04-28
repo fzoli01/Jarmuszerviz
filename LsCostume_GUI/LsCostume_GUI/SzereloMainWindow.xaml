@@ -1,0 +1,85 @@
+﻿<Window x:Class="LsCostume_GUI.SzereloMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LsCostume_GUI"
+        mc:Ignorable="d"
+        Title="Szerelő Vezérlőpult" WindowState="Maximized"
+        WindowStartupLocation="CenterScreen"
+        Width="1000" Height="600"
+        Background="#1E1E2F" Closing="Window_Closing">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.Row="0" LastChildFill="False" Margin="0,0,0,20">
+            <TextBlock x:Name="Sznev"  FontSize="28" FontWeight="Bold" Foreground="White" DockPanel.Dock="Left" VerticalAlignment="Center"/>
+
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Right" VerticalAlignment="Center">
+                <Button Content="Készre jelölés" Background="#3A3A50" Foreground="White" BorderBrush="Transparent" Margin="5" Padding="10,5" FontWeight="SemiBold" Cursor="Hand" Click="DoneButton_Click"/>
+                <Button Content="Frissítés" Background="#3A3A50" Foreground="White" BorderBrush="Transparent" Margin="5" Padding="10,5" FontWeight="SemiBold" Cursor="Hand" Click="FrissitesButton_Click"/>
+                <Button Content="Profil módosítása" Background="#3A3A50" Foreground="White" BorderBrush="Transparent" Margin="5" Padding="10,5" FontWeight="SemiBold" Cursor="Hand" Click="ProfilModositasButton_Click"/>
+                <Button Content="Kijelentkezés" Background="IndianRed" Foreground="White" BorderBrush="Transparent" Margin="5" Padding="10,5" FontWeight="SemiBold" Cursor="Hand" Click="kijelentkezsButton_Click"/>
+            </StackPanel>
+        </DockPanel>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="3*" />
+            </Grid.ColumnDefinitions>
+            
+            <ListView Grid.Column="0" x:Name="ListView" Margin="0,0,20,0" Background="#2C2C3C" BorderThickness="0" Foreground="Gray" SelectionChanged="ListView_SelectionChanged">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Dátum"  DisplayMemberBinding="{Binding Datum}"/>
+                        <GridViewColumn Header="Leírás"  DisplayMemberBinding="{Binding Leiras}"/>
+                        <GridViewColumn Header = "Alvázszám"  DisplayMemberBinding="{Binding JarmuID}"/>
+                        <GridViewColumn Header = "Költség"  DisplayMemberBinding="{Binding Koltseg}"/>
+                        <GridViewColumn Header="Állapot"  DisplayMemberBinding="{Binding Elkeszult}"/>
+
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <StackPanel Grid.Column="1"  x:Name="AlkatreszPanel"  Visibility="Collapsed" Background="#2C2C3C">
+                <StackPanel  >
+                    <TextBlock Text="Alkatrész hozzáadása" FontSize="20" Foreground="White" Margin="0,0,0,10"/>
+                    <TextBlock Text="Alkatrész neve:" Foreground="White"/>
+                    <ComboBox x:Name="AlkatreszNeveBox" Margin="0,0,0,10" Height="30" Background="#404060" Foreground="Gray" BorderThickness="0" SelectionChanged="AlkatreszNeveBox_SelectionChanged" />
+                    <TextBlock Text="Mennyiség:" Foreground="White"/>
+                    <TextBox x:Name="DarabszamBox" Margin="0,0,0,10" Height="30" Background="#404060" Foreground="White" BorderThickness="0" TextChanged="DarabszamBox_TextChanged" />
+                    <Button x:Name="MentesButton" Content="Mentés" Background="#3A3A50" Foreground="White" BorderBrush="Transparent" Margin="5" Padding="10,5" FontWeight="SemiBold" Cursor="Hand" IsEnabled="False" Click="MentesButton_Click" />
+                </StackPanel>
+                <StackPanel>
+                    <TextBlock Text="Felhasznált alkatrészek" FontSize="20" Foreground="White" HorizontalAlignment="Center"/>
+                    <ListView  x:Name="ListViewAlkatreszek" Background="#2C2C3C" BorderThickness="0" Foreground="Gray">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Név"  DisplayMemberBinding="{Binding Alkatresz.AlkatreszNev}"/>
+                                <GridViewColumn Header="Mennyiség"  DisplayMemberBinding="{Binding Mennyiseg}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </StackPanel>
+            </StackPanel>
+            
+
+            <StackPanel Grid.Column="1" x:Name="ProfilModositasPanel" Visibility="Collapsed" Background="#2C2C3C">
+                <TextBlock Text="Profil Módosítása" FontSize="20" Foreground="White" Margin="0,0,0,10"/>
+                
+                <TextBlock Text="Név:" Foreground="White"/>
+                <TextBox x:Name="NevBox" Margin="0,0,0,10" Height="30" Background="#404060" Foreground="White" BorderThickness="0" TextChanged="TextBox_TextChanged"/>
+                <TextBlock Text="Telefonszám:" Foreground="White"/>
+                <TextBox x:Name="TelefonBox" Margin="0,0,0,10" Height="30" Background="#404060" Foreground="White" BorderThickness="0" TextChanged="TextBox_TextChanged" />
+                <TextBlock Text="Email:" Foreground="White"/>
+                <TextBox x:Name="EmailBox"  Margin="0,0,0,10" Height="30" Background="#404060" Foreground="White" BorderThickness="0" TextChanged="TextBox_TextChanged" />
+                <Button  x:Name="ProflModositasaButton" Content="Módosítása" Background="#3A3A50" Foreground="White" BorderBrush="Transparent" Margin="5" Padding="10,5" FontWeight="SemiBold" Cursor="Hand" IsEnabled="False" Click="ProflModositasaButton_Click"/>
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+</Window>

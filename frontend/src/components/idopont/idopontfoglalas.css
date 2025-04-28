@@ -1,0 +1,266 @@
+.idopontDiv{
+  background-image: url('../../assets/idopontBackground.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.monthButton{
+  color: white;
+}
+
+.texter {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .napok {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 10px;
+    padding: 5%;
+    margin: 0 auto;
+  }
+  .weekdays{
+    background-color: #8c8c8c !important;
+  }
+  
+  .napok > div {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 15px 0;
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    color: #333;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .daysNapok:hover{
+    background-color: #F2AF29;
+    transform: scale(1.05);
+    cursor: pointer;
+  }
+
+  .napok > div:empty {
+    background: transparent;
+    box-shadow: none;
+    cursor: default;
+  }
+  
+  .isToday {
+    color: grey;
+    font-weight: bold;
+    border-radius: 50%;
+    border: 2px solid black;
+  }
+  
+  .sunDays {
+    background-color: #790000 !important;
+    color: #ffffff !important;
+    font-weight: bold;
+  }
+  
+
+  .ures {
+    visibility: hidden;
+  }
+  
+  .selectedDay {
+    background-color: #4CAF50 !important;
+    color: white !important;
+    font-weight: bold;
+  }
+  
+  .vasarnapNap {
+    background-color: #ffe6e6;
+    color: #990000;
+    font-weight: bold;
+  }
+  
+  .monthNavigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .monthNavigation button {
+    background: none;
+    border: none;
+    font-size: 1.7rem;
+    cursor: pointer;
+    margin: 0 10px;
+  }
+
+  .hourText{
+    color:white;
+  }
+  
+  .honap {
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .icon{
+    height: 70%;
+    width: 70%;
+    color:white;
+  }
+
+  .iconContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .formWrapper {
+    width: 90%;
+    max-width: 60vw;
+    margin: 3vh auto;
+    padding: 5vw;
+    background-color: #fff;
+    border-radius: 2vw;
+    box-shadow: 0 0.5vw 2vw rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+  }
+  
+  .inputType {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2vh;
+  }
+  
+  .inputType label {
+    margin-bottom: 0.8vh;
+    font-weight: 600;
+    color: #333;
+    font-size: 1.1vw;
+  }
+  
+  .inputType input,
+  .inputType select {
+    padding: 1vh 1vw;
+    border: 0.2vw solid #ccc;
+    border-radius: 1vw;
+    font-size: 1.1vw;
+    background-color: #f9f9f9;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .inputType input:focus,
+  .inputType select:focus {
+    border-color: #990000;
+    outline: none;
+  }
+  
+  .submitButton {
+    background-color: black ;
+    color: white;
+    padding: 1vh 2vw;
+    border: none;
+    border-radius: 1.2vw;
+    font-size: 1.2vw;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .submitButton:hover {
+    background-color: #990000;
+    transform: scale(1.03);
+  }
+  
+  a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #f24f29;
+    cursor: pointer;
+  }
+
+  .appointContainrer {
+    display: flex;
+  }
+  
+  .div-left {
+    flex: 2;
+    padding: 1rem;
+  }
+  
+  .div-right {
+    border-radius: 10px;
+    padding: 15px 0;
+    padding-right: 6%;
+    color: #333;
+    margin-top: 1.5rem;
+  }
+  
+  .hoursAppoint {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 3rem;
+  }
+  
+  .appointmentHours {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 1.8rem;
+    text-align: center;
+    font-weight: 600;
+    font-size: 100%;
+    color: #333;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: all 0.3s ease-in-out;
+    margin: 5px 0;
+  }
+  
+  .appointmentHours:hover {
+    background-color: #F2AF29;
+    transform: scale(1.05);
+    cursor: pointer;
+  }
+  
+  .selectedHour {
+    background-color: #4CAF50 !important;
+    color: white !important;
+    font-weight: bold;
+  }
+  
+  
+  @media (max-width: 1000px) {
+    .appointContainrer {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+  
+    .div-right {
+      order: -1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      margin-bottom: 1rem;
+    }
+  
+    .hoursAppoint {
+      margin-bottom: 0.5rem;
+      text-align: center;
+    }
+  
+    .appointmentHours {
+      display: inline-block;
+      margin: 0.25rem;
+    }
+  
+    .div-left {
+      width: 100%;
+    }
+  }
+  

@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|c:\\users\\win11\\desktop\\szosziazi\\lscostume_gui\\lscostume_gui\\szerelomainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|solutionrelative:lscostume_gui\\szerelomainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|c:\\users\\win11\\desktop\\szosziazi\\lscostume_gui\\lscostume_gui\\szerelomainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|solutionrelative:lscostume_gui\\szerelomainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|c:\\users\\win11\\desktop\\szosziazi\\lscostume_gui\\lscostume_gui\\adminmainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|solutionrelative:lscostume_gui\\adminmainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|c:\\users\\win11\\desktop\\szosziazi\\lscostume_gui\\lscostume_gui\\ujadat.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|solutionrelative:lscostume_gui\\ujadat.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|c:\\users\\win11\\desktop\\szosziazi\\lscostume_gui\\lscostume_gui\\bejelentkezes.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|solutionrelative:lscostume_gui\\bejelentkezes.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|c:\\users\\win11\\desktop\\szosziazi\\lscostume_gui\\lscostume_gui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|solutionrelative:lscostume_gui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|c:\\users\\win11\\desktop\\szosziazi\\lscostume_gui\\lscostume_gui\\adminmainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|solutionrelative:lscostume_gui\\adminmainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|c:\\users\\win11\\desktop\\szosziazi\\lscostume_gui\\lscostume_gui\\ujadat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|solutionrelative:lscostume_gui\\ujadat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|c:\\users\\win11\\desktop\\szosziazi\\lscostume_gui\\lscostume_gui\\bejelentkezes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7754AED1-E75F-45C3-BB8A-E630306F8651}|LsCostume_GUI\\LsCostume_GUI.csproj|solutionrelative:lscostume_gui\\bejelentkezes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 286,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\App.xaml",
+              "RelativeDocumentMoniker": "LsCostume_GUI\\App.xaml",
+              "ToolTip": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\App.xaml",
+              "RelativeToolTip": "LsCostume_GUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T20:58:20.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SzereloMainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\SzereloMainWindow.xaml",
+              "RelativeDocumentMoniker": "LsCostume_GUI\\SzereloMainWindow.xaml",
+              "ToolTip": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\SzereloMainWindow.xaml",
+              "RelativeToolTip": "LsCostume_GUI\\SzereloMainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T20:37:08.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SzereloMainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\SzereloMainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LsCostume_GUI\\SzereloMainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\SzereloMainWindow.xaml.cs",
+              "RelativeToolTip": "LsCostume_GUI\\SzereloMainWindow.xaml.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAqwKgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:37:24.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminMainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\AdminMainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LsCostume_GUI\\AdminMainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\AdminMainWindow.xaml.cs",
+              "RelativeToolTip": "LsCostume_GUI\\AdminMainWindow.xaml.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAA8wHwBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:53:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UjAdat.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\UjAdat.xaml.cs",
+              "RelativeDocumentMoniker": "LsCostume_GUI\\UjAdat.xaml.cs",
+              "ToolTip": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\UjAdat.xaml.cs",
+              "RelativeToolTip": "LsCostume_GUI\\UjAdat.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswIQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:53:32.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bejelentkezes.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\Bejelentkezes.xaml.cs",
+              "RelativeDocumentMoniker": "LsCostume_GUI\\Bejelentkezes.xaml.cs",
+              "ToolTip": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\Bejelentkezes.xaml.cs",
+              "RelativeToolTip": "LsCostume_GUI\\Bejelentkezes.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwFEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:06:50.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bejelentkezes.xaml",
+              "DocumentMoniker": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\Bejelentkezes.xaml",
+              "RelativeDocumentMoniker": "LsCostume_GUI\\Bejelentkezes.xaml",
+              "ToolTip": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\Bejelentkezes.xaml",
+              "RelativeToolTip": "LsCostume_GUI\\Bejelentkezes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T20:06:24.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminMainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\AdminMainWindow.xaml",
+              "RelativeDocumentMoniker": "LsCostume_GUI\\AdminMainWindow.xaml",
+              "ToolTip": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\AdminMainWindow.xaml",
+              "RelativeToolTip": "LsCostume_GUI\\AdminMainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T20:41:13.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UjAdat.xaml",
+              "DocumentMoniker": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\UjAdat.xaml",
+              "RelativeDocumentMoniker": "LsCostume_GUI\\UjAdat.xaml",
+              "ToolTip": "C:\\Users\\Win11\\Desktop\\szosziazi\\LsCostume_GUI\\LsCostume_GUI\\UjAdat.xaml",
+              "RelativeToolTip": "LsCostume_GUI\\UjAdat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T20:38:47.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 114,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

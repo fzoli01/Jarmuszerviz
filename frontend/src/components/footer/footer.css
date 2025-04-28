@@ -1,0 +1,107 @@
+body{
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
+
+.footerDiv{
+    background-image: url('../../assets/idopontBackgroundMirrored.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.listRight{
+    list-style-type: none;
+    padding: 0; 
+    margin: 0;
+    padding-right: 2rem;
+    font-weight: 300;
+}
+
+.tel{
+    font-weight: 800;
+}
+.adMail{
+    font-weight: 400;
+}
+
+.listLeft{
+    list-style-type: none;
+    padding: 0; 
+    margin: 0;
+    padding-right: 2rem;
+    
+}
+
+.text{
+    padding: 0;
+    margin: 0;
+    padding-bottom: 1rem;
+    font-size: 180%;
+    color:white !important;
+}
+
+.terkep{
+    padding: 2rem;
+    border-radius: 40px;
+}
+
+
+.left-div{
+    display:flex;
+    height: 70vh;
+    justify-content: center; 
+    align-items: center;     
+}
+
+.left-div{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.right-div{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.left-divTwo{
+    display: flex;
+    gap: 2rem;
+    color: #990000;
+}
+
+.left-divTwo>:nth-child(1)>:hover{
+    cursor: pointer;
+    color: white;
+}
+
+.left-divTwo, .right-div{
+    padding:0 1rem;
+    font-size: 80%;
+}
+
+.footer{
+    background-color: #000000;
+    font-weight: bold;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.rights{
+    text-align: center;
+    font-size: 0.9rem;
+    opacity: 0.8;
+    font-size: 40%;
+    color: wheat;
+    padding:0 1rem;
+}

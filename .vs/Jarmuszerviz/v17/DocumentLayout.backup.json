@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programozas\\Jarmuszerviz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|c:\\programozas\\jarmuszerviz\\jarmuszerviz\\controllers\\javitasokcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|solutionrelative:jarmuszerviz\\controllers\\javitasokcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|c:\\programozas\\jarmuszerviz\\jarmuszerviz\\models\\felhasznaltalkatreszek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|solutionrelative:jarmuszerviz\\models\\felhasznaltalkatreszek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|C:\\programozas\\Jarmuszerviz\\jarmuszerviz\\models\\jarmuvek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|solutionrelative:jarmuszerviz\\models\\jarmuvek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|C:\\programozas\\Jarmuszerviz\\jarmuszerviz\\models\\ugyfelek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|solutionrelative:jarmuszerviz\\models\\ugyfelek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|C:\\programozas\\Jarmuszerviz\\jarmuszerviz\\security\\apivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|solutionrelative:jarmuszerviz\\security\\apivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|C:\\programozas\\Jarmuszerviz\\jarmuszerviz\\controllers\\alkalmazottakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|solutionrelative:jarmuszerviz\\controllers\\alkalmazottakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|C:\\programozas\\Jarmuszerviz\\jarmuszerviz\\database\\jarmuszervizcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|solutionrelative:jarmuszerviz\\database\\jarmuszervizcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|C:\\programozas\\Jarmuszerviz\\jarmuszerviz\\models\\alkalmazottak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|solutionrelative:jarmuszerviz\\models\\alkalmazottak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|C:\\programozas\\Jarmuszerviz\\jarmuszerviz\\controllers\\idopontfoglalasokcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|solutionrelative:jarmuszerviz\\controllers\\idopontfoglalasokcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|C:\\programozas\\Jarmuszerviz\\jarmuszerviz\\controllers\\jarmuvekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|solutionrelative:jarmuszerviz\\controllers\\jarmuvekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|C:\\programozas\\Jarmuszerviz\\jarmuszerviz\\controllers\\ugyfelekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865A4C5-B3D5-4D61-8EA3-B1D44F17857F}|Jarmuszerviz\\Jarmuszerviz.csproj|solutionrelative:jarmuszerviz\\controllers\\ugyfelekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JavitasokController.cs",
+              "DocumentMoniker": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Controllers\\JavitasokController.cs",
+              "RelativeDocumentMoniker": "Jarmuszerviz\\Controllers\\JavitasokController.cs",
+              "ToolTip": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Controllers\\JavitasokController.cs",
+              "RelativeToolTip": "Jarmuszerviz\\Controllers\\JavitasokController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:08:22.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jarmuvek.cs",
+              "DocumentMoniker": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\models\\Jarmuvek.cs",
+              "RelativeDocumentMoniker": "Jarmuszerviz\\models\\Jarmuvek.cs",
+              "ToolTip": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\models\\Jarmuvek.cs",
+              "RelativeToolTip": "Jarmuszerviz\\models\\Jarmuvek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:49:29.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ugyfelek.cs",
+              "DocumentMoniker": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\models\\Ugyfelek.cs",
+              "RelativeDocumentMoniker": "Jarmuszerviz\\models\\Ugyfelek.cs",
+              "ToolTip": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\models\\Ugyfelek.cs",
+              "RelativeToolTip": "Jarmuszerviz\\models\\Ugyfelek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:49:28.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FelhasznaltAlkatreszek.cs",
+              "DocumentMoniker": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\models\\FelhasznaltAlkatreszek.cs",
+              "RelativeDocumentMoniker": "Jarmuszerviz\\models\\FelhasznaltAlkatreszek.cs",
+              "ToolTip": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\models\\FelhasznaltAlkatreszek.cs",
+              "RelativeToolTip": "Jarmuszerviz\\models\\FelhasznaltAlkatreszek.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:49:26.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiValidator.cs",
+              "DocumentMoniker": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Security\\ApiValidator.cs",
+              "RelativeDocumentMoniker": "Jarmuszerviz\\Security\\ApiValidator.cs",
+              "ToolTip": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Security\\ApiValidator.cs",
+              "RelativeToolTip": "Jarmuszerviz\\Security\\ApiValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:48:50.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alkalmazottak.cs",
+              "DocumentMoniker": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\models\\Alkalmazottak.cs",
+              "RelativeDocumentMoniker": "Jarmuszerviz\\models\\Alkalmazottak.cs",
+              "ToolTip": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\models\\Alkalmazottak.cs",
+              "RelativeToolTip": "Jarmuszerviz\\models\\Alkalmazottak.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:44:35.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlkalmazottakController.cs",
+              "DocumentMoniker": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Controllers\\AlkalmazottakController.cs",
+              "RelativeDocumentMoniker": "Jarmuszerviz\\Controllers\\AlkalmazottakController.cs",
+              "ToolTip": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Controllers\\AlkalmazottakController.cs",
+              "RelativeToolTip": "Jarmuszerviz\\Controllers\\AlkalmazottakController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:44:24.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdopontFoglalasokController.cs",
+              "DocumentMoniker": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Controllers\\IdopontFoglalasokController.cs",
+              "RelativeDocumentMoniker": "Jarmuszerviz\\Controllers\\IdopontFoglalasokController.cs",
+              "ToolTip": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Controllers\\IdopontFoglalasokController.cs",
+              "RelativeToolTip": "Jarmuszerviz\\Controllers\\IdopontFoglalasokController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:44:05.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JarmuvekController.cs",
+              "DocumentMoniker": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Controllers\\JarmuvekController.cs",
+              "RelativeDocumentMoniker": "Jarmuszerviz\\Controllers\\JarmuvekController.cs",
+              "ToolTip": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Controllers\\JarmuvekController.cs",
+              "RelativeToolTip": "Jarmuszerviz\\Controllers\\JarmuvekController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:43:55.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UgyfelekController.cs",
+              "DocumentMoniker": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Controllers\\UgyfelekController.cs",
+              "RelativeDocumentMoniker": "Jarmuszerviz\\Controllers\\UgyfelekController.cs",
+              "ToolTip": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Controllers\\UgyfelekController.cs",
+              "RelativeToolTip": "Jarmuszerviz\\Controllers\\UgyfelekController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:43:51.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JarmuSzervizContext.cs",
+              "DocumentMoniker": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Database\\JarmuSzervizContext.cs",
+              "RelativeDocumentMoniker": "Jarmuszerviz\\Database\\JarmuSzervizContext.cs",
+              "ToolTip": "C:\\programozas\\Jarmuszerviz\\Jarmuszerviz\\Database\\JarmuSzervizContext.cs",
+              "RelativeToolTip": "Jarmuszerviz\\Database\\JarmuSzervizContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:43:49.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
